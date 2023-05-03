@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="0508\050801.cpp" />
+    <ClCompile Include="0508\051701.cpp" />
+    <ClCompile Include="0508\演習問題03.cpp" />
+    <ClCompile Include="0508\演習問題03台形.cpp" />
+    <ClCompile Include="0508\課題03区分求積.cpp" />
+    <ClCompile Include="0508\課題03台形.cpp" />
+    <ClCompile Include="0508\演習問題04.cpp" />
+    <ClCompile Include="0508\課題04.cpp" />
+    <ClCompile Include="0508\演習05.cpp" />
+    <ClCompile Include="0508\課題05.cpp" />
+    <ClCompile Include="0508\演習06.cpp" />
+    <ClCompile Include="0508\課題06.cpp" />
+    <ClCompile Include="0508\演習問題08-1.cpp" />
+    <ClCompile Include="0508\課題07.cpp" />
+    <ClCompile Include="0508\演習問題08-2.cpp" />
+    <ClCompile Include="0508\演習問題09.cpp" />
+    <ClCompile Include="0508\課題09.cpp" />
+    <ClCompile Include="0508\課題10.cpp" />
+    <ClCompile Include="0508\課題11.cpp" />
+    <ClCompile Include="0508\課題12.cpp" />
+    <ClCompile Include="0508\課題12-2.cpp" />
+    <ClCompile Include="0508\課題13.cpp" />
+    <ClCompile Include="0508\課題14.cpp" />
+  </ItemGroup>
+</Project>
